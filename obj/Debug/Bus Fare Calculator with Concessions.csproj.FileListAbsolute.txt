@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Bus Fare Calculator with Concessions\bin\Debug\Bus Fare Calculator with Concessions.exe.config
+C:\Users\HP\source\repos\Bus Fare Calculator with Concessions\bin\Debug\Bus Fare Calculator with Concessions.exe
+C:\Users\HP\source\repos\Bus Fare Calculator with Concessions\bin\Debug\Bus Fare Calculator with Concessions.pdb
+C:\Users\HP\source\repos\Bus Fare Calculator with Concessions\obj\Debug\Bus Fare Calculator with Concessions.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Bus Fare Calculator with Concessions\obj\Debug\Bus Fare Calculator with Concessions.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Bus Fare Calculator with Concessions\obj\Debug\Bus Fare Calculator with Concessions.exe
+C:\Users\HP\source\repos\Bus Fare Calculator with Concessions\obj\Debug\Bus Fare Calculator with Concessions.pdb
